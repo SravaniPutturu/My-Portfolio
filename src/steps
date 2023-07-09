@@ -1,0 +1,14 @@
+install tailwind css
+
+install react-icons
+
+import forms from google fonts - raleway, 
+
+@layer base{
+    html{
+        font-family: 'Raleway', sans-serif; - in index.css
+    }
+}
+
+
+change code in tailwind.js - 
