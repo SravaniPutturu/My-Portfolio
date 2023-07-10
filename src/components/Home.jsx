@@ -10,7 +10,7 @@ const Home = () => {
             <div className='flex flex-col justify-center h-full '>
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a Frontend Developer</h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    I have one year of experience building and designing web applications.
+                Hello, I'm Sravani, a passionate frontend developer with a strong interest in creating engaging user experiences.
                     
                 </p>
                 <div>
