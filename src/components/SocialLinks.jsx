@@ -17,7 +17,7 @@ const SocialLinks = () => {
 
         },
         {
-            id:1,
+            id:2,
             child:(
                 <>
                   Github<AiFillGithub size={30}/>

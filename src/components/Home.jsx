@@ -1,7 +1,6 @@
 import React from 'react'
 import {RiArrowRightLine} from 'react-icons/ri'
 import MyImage from '../asserts/Image-1.jpg'
-import Projects from './Projects'
 import { Link } from 'react-scroll'
 
 const Home = () => {
