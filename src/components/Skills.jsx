@@ -1,5 +1,4 @@
 import React from 'react'
-import Html from '../asserts/HTML.png'
 import Css from '../asserts/Css.png'
 import JavaScript from '../asserts/JavaScript.webp'
 import ReactJs from '../asserts/react.png';
@@ -7,6 +6,7 @@ import Bootstrap from '../asserts/Bootstrap.jpeg'
 import Tailwind from '../asserts/tailwind.png'
 import Redux from '../asserts/redux.png'
 import Github from '../asserts/Github.png'
+import HTML from '../asserts/HTML.png'
 
 const Skills = () => {
 
@@ -14,7 +14,7 @@ const Skills = () => {
         
         {
             id:1,
-            src:Html,
+            src:HTML,
             title : 'HTML',
             style : 'shadow-orange-500'
         },
