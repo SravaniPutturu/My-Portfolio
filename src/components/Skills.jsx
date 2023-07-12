@@ -4,7 +4,7 @@ import JS from '../asserts/JavaScript.webp'
 import ReactJS from '../asserts/react.png'
 import BootstrapCSS from '../asserts/Bootstrap.jpeg'
 import TailwindCSS from '../asserts/tailwind.png'
-import RR from '../asserts/redux.png'
+import RR from '../asserts/rr.png'
 import GIT from '../asserts/Github.png'
 import HTML from '../asserts/HTML.png'
 
