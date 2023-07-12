@@ -4,7 +4,7 @@ import JS from '../asserts/JavaScript.webp'
 import ReactJS from '../asserts/react.png'
 import BootstrapCSS from '../asserts/Bootstrap.jpeg'
 import TailwindCSS from '../asserts/tailwind.png'
-import RR from '../asserts/rr.png'
+// import RR from '../asserts/rr.png'
 import GIT from '../asserts/Github.png'
 import HTML from '../asserts/HTML.png'
 
@@ -36,12 +36,12 @@ const Skills = () => {
             title : 'ReactJs',
             style : 'shadow-blue-600'
         },
-        {
-            id:5,
-            src:RR,
-            title : 'Redux',
-            style : 'shadow-purple-500'
-        },
+        // {
+        //     id:5,
+        //     src:RR,
+        //     title : 'Redux',
+        //     style : 'shadow-purple-500'
+        // },
         {
             id:6,
             src:TailwindCSS,
