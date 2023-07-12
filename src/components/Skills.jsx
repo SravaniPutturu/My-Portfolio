@@ -1,5 +1,5 @@
 import React from 'react'
-import Html from '../asserts/html.png'
+import Html from '../asserts/HTML.png'
 import Css from '../asserts/Css.png'
 import JavaScript from '../asserts/JavaScript.webp'
 import ReactJs from '../asserts/react.png';
