@@ -1,11 +1,11 @@
 import React from 'react'
-import Css from '../asserts/Css.png'
-import JavaScript from '../asserts/JavaScript.webp'
-import ReactJs from '../asserts/react.png';
-import Bootstrap from '../asserts/Bootstrap.jpeg'
-import Tailwind from '../asserts/tailwind.png'
-import Redux from '../asserts/redux.png'
-import Github from '../asserts/Github.png'
+import CSS from '../asserts/Css.png'
+import JS from '../asserts/JavaScript.webp'
+import ReactJS from '../asserts/react.png'
+import BootstrapCSS from '../asserts/Bootstrap.jpeg'
+import TailwindCSS from '../asserts/tailwind.png'
+import ReactRedux from '../asserts/redux.png'
+import GIT from '../asserts/Github.png'
 import HTML from '../asserts/HTML.png'
 
 const Skills = () => {
@@ -20,43 +20,43 @@ const Skills = () => {
         },
         {
             id:2,
-            src:Css,
+            src:CSS,
             title : 'CSS',
             style : 'shadow-blue-500'
         },
         {
             id:3,
-            src:JavaScript,
+            src:JS,
             title : 'JavaScript',
             style : 'shadow-yellow-500'
         },
         {
             id:4,
-            src: ReactJs,
+            src: ReactJS,
             title : 'ReactJs',
             style : 'shadow-blue-600'
         },
         {
             id:5,
-            src:Redux,
+            src:ReactRedux,
             title : 'Redux',
             style : 'shadow-purple-500'
         },
         {
             id:6,
-            src:Tailwind,
+            src:TailwindCSS,
             title : 'Tailwind',
             style : 'shadow-sky-400'
         },
         {
             id:7,
-            src:Github,
+            src:GIT,
             title : 'Github',
             style : 'shadow-gray-500'
         },
         {
             id:8,
-            src:Bootstrap,
+            src:BootstrapCSS,
             title : 'Bootstrap',
             style : 'shadow-purple-800'
         },
