@@ -1,34 +1,36 @@
 import React from 'react'
+import weatherImg from '../asserts/weatherImage.png';
+import todoImg from '../asserts/todoImage.png';
 import MeShop from '../asserts/MeShop.png'
-import RecipeFinder from '../asserts/RecipeFinder.png'
 
 const Projects = () => {
 
     const projects = [
         {
             id:1,
-            src:MeShop
+            project : "Weather App",
+            src:weatherImg,
+            link : 'https://main--euphonious-tartufo-089e4c.netlify.app/',
+            languages : "HTML, CSS, JS, React",
+            repoLink : 'https://github.com/SravaniPutturu/Weather-app-React'
         },
         {
             id:2,
-            src:RecipeFinder
+            project : "Weather App",
+            src:todoImg,
+            link:'https://main--radiant-biscochitos-460c16.netlify.app/',
+            languages : "HTML, Bootstrap, JS, React, Redux",
+            repoLink : 'https://github.com/SravaniPutturu/Todo-List-React-Redux'
         },
         {
             id:3,
-            src:RecipeFinder
+            project : "MeShop Shopping Cart",
+            src:MeShop,
+            link:'https://sravaniputturu.github.io/MeShop---Shopping-Cart/',
+            languages : "HTML, CSS, JS",
+            repoLink : 'https://github.com/SravaniPutturu/MeShop---Shopping-Cart'
         },
-        {
-            id:4,
-            src:RecipeFinder
-        },
-        {
-            id:5,
-            src:RecipeFinder
-        },
-        {
-            id:6,
-            src:RecipeFinder
-        },
+        
     ]
 
 
@@ -46,13 +48,15 @@ const Projects = () => {
             <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
 
             {
-                projects.map(({id,src})=>(
-                <div key={id} className='shadow-md shadow-gray-600 rounded-lg'>
-                    <img src={src} alt="" className='rounded-md duration-200 hover:scale-105'/>
+                projects.map(({id,repoLink,src,link,languages})=>(
+                <div key={id} className='shadow-md shadow-gray-600 rounded-lg duration-200 hover:scale-105'>
+                    <img src={src} alt="" className='rounded-md'/>
+                    <div className='m-2 text-sm'><b>{languages}</b></div>
                     <div className='flex items-center justify-center'>
-                        <button className='w-1/2 px-6 py-3 m-4 duration-200'>Live</button>
-                        <button className='w-1/2 px-6 py-3 m-4 duration-200'>Code</button>
+                        <button className='w-1/2 px-6 py-3 '><a href={link}>Live</a></button>
+                        <button className='w-1/2 px-6 py-3 '><a href={repoLink}>Code</a></button>
                     </div>
+                    
                 </div>
                 ))
             }

@@ -1,11 +1,11 @@
 import React from 'react'
-import Html from '../asserts/Html.png'
+import Html from '../asserts/html.png'
 import Css from '../asserts/Css.png'
-import JavaScript from '../asserts/JavaScript.png'
-import ReactJs from '../asserts/ReactJs.png';
+import JavaScript from '../asserts/JavaScript.webp'
+import ReactJs from '../asserts/react.png';
 import Bootstrap from '../asserts/Bootstrap.jpeg'
-import Tailwind from '../asserts/TailwindCSS.png'
-import Redux from '../asserts/Redux.png'
+import Tailwind from '../asserts/tailwind.png'
+import Redux from '../asserts/redux.png'
 import Github from '../asserts/Github.png'
 
 const Skills = () => {

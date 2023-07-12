@@ -13,7 +13,7 @@ const SocialLinks = () => {
           <AiFillLinkedin size={30} />
         </>
       ),
-      href: 'https://linkedin.com/in/sravani-putturu',
+      href: 'https://www.linkedin.com/in/sravani-putturu-36956a252/',
       style: 'rounded-tr-md',
     },
     {
@@ -24,7 +24,7 @@ const SocialLinks = () => {
           <AiFillGithub size={30} />
         </>
       ),
-      href: 'https://github.com',
+      href: 'https://github.com/SravaniPutturu',
     },
     {
       id: 3,

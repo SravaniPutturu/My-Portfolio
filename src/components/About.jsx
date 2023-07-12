@@ -8,11 +8,11 @@ const About = () => {
         <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
       </div>
       <p className='text-xl mt-20'>
-       Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quos tempore voluptatum molestiae quae aspernatur iusto nostrum error mollitia dolores explicabo, adipisci unde illum assumenda corporis! Aliquid error doloribus a expedita blanditiis at omnis dolorum officiis voluptates ex sint dolorem magnam nostrum, rerum sed odit similique, consequatur quia quas quibusdam?
+      Hello, I'm [Your Name], a frontend developer with a strong passion for creating visually appealing and user-friendly websites. I graduated in 2020 and have since focused on honing my frontend development skills through training and hands-on projects. 
       </p>
       <br />
       <p className='text-xl'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus velit, ex iure assumenda fugit voluptate id blanditiis vero suscipit odio. Beatae est eius velit amet alias quo a eum numquam doloribus nobis quos minus, cum aperiam commodi qui dolores nemo nihil modi aliquid provident tempore, itaque distinctio voluptate sequi? Magni?
+      My expertise lies in HTML5, CSS3, and JavaScript, along with proficiency in CSS frameworks like Bootstrap and Tailwind CSS. I am also experienced in React and Vue.js for building interactive web applications. With a solid foundation in UI/UX design principles, I strive to deliver high-quality code and exceptional user experiences.
       </p>
     </div>
     </div>
