@@ -4,7 +4,7 @@ import JS from '../asserts/JavaScript.webp'
 import ReactJS from '../asserts/react.png'
 import BootstrapCSS from '../asserts/Bootstrap.jpeg'
 import TailwindCSS from '../asserts/tailwind.png'
-import ReactRedux from '../asserts/redux.png'
+import Redux from '../asserts/redux.png'
 import GIT from '../asserts/Github.png'
 import HTML from '../asserts/HTML.png'
 
@@ -38,7 +38,7 @@ const Skills = () => {
         },
         {
             id:5,
-            src:ReactRedux,
+            src:Redux,
             title : 'Redux',
             style : 'shadow-purple-500'
         },
