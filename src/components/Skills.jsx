@@ -4,20 +4,20 @@ import JS from '../asserts/JavaScript.webp'
 import ReactJS from '../asserts/react.png'
 import BootstrapCSS from '../asserts/Bootstrap.jpeg'
 import TailwindCSS from '../asserts/tailwind.png'
-// import RR from '../asserts/rr.png'
+import Store from '../asserts/store.png'
 import GIT from '../asserts/Github.png'
-// import HTML from '../asserts/HTML.png'
+import Tags from '../asserts/Tags.png'
 
 const Skills = () => {
 
     const techs = [
         
-        // {
-        //     id:1,
-        //     src:HTML,
-        //     title : 'HTML',
-        //     style : 'shadow-orange-500'
-        // },
+        {
+            id:1,
+            src:Tags,
+            title : 'HTML',
+            style : 'shadow-orange-500'
+        },
         {
             id:2,
             src:CSS,
@@ -36,12 +36,12 @@ const Skills = () => {
             title : 'ReactJs',
             style : 'shadow-blue-600'
         },
-        // {
-        //     id:5,
-        //     src:RR,
-        //     title : 'Redux',
-        //     style : 'shadow-purple-500'
-        // },
+        {
+            id:5,
+            src:Store,
+            title : 'Redux',
+            style : 'shadow-purple-500'
+        },
         {
             id:6,
             src:TailwindCSS,

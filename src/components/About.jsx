@@ -12,7 +12,7 @@ const About = () => {
       </p>
       <br />
       <p className='text-xl'>
-      My expertise lies in HTML5, CSS3, and JavaScript, along with proficiency in CSS frameworks like Bootstrap and Tailwind CSS. I am also experienced in React and Vue.js for building interactive web applications. With a solid foundation in UI/UX design principles, I strive to deliver high-quality code and exceptional user experiences.
+      My expertise lies in HTML5, CSS3, and JavaScript, along with proficiency in CSS frameworks like Bootstrap and Tailwind CSS. I am also experienced in React for building interactive web applications. With a solid foundation in UI/UX design principles, I strive to deliver high-quality code and exceptional user experiences.
       </p>
     </div>
     </div>
