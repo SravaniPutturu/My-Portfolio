@@ -6,18 +6,18 @@ import BootstrapCSS from '../asserts/Bootstrap.jpeg'
 import TailwindCSS from '../asserts/tailwind.png'
 // import RR from '../asserts/rr.png'
 import GIT from '../asserts/Github.png'
-import HTML from '../asserts/HTML.png'
+// import HTML from '../asserts/HTML.png'
 
 const Skills = () => {
 
     const techs = [
         
-        {
-            id:1,
-            src:HTML,
-            title : 'HTML',
-            style : 'shadow-orange-500'
-        },
+        // {
+        //     id:1,
+        //     src:HTML,
+        //     title : 'HTML',
+        //     style : 'shadow-orange-500'
+        // },
         {
             id:2,
             src:CSS,
