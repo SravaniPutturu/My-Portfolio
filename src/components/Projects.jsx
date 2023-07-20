@@ -2,6 +2,7 @@ import React from 'react'
 import weatherImg from '../asserts/weatherImage.png';
 import todoImg from '../asserts/todoImage.png';
 import MeShop from '../asserts/MeShop.png'
+import ColorPicker from '../asserts/ColorPicker.png'
 
 const Projects = () => {
 
@@ -29,6 +30,14 @@ const Projects = () => {
             link:'https://sravaniputturu.github.io/MeShop---Shopping-Cart/',
             languages : "HTML, CSS, JS",
             repoLink : 'https://github.com/SravaniPutturu/MeShop---Shopping-Cart'
+        },
+        {
+            id:4,
+            project : "Color Picker",
+            src:ColorPicker,
+            link:'https://main--color-picker-03a9ba.netlify.app/',
+            languages : "HTML, CSS, JS, React",
+            repoLink : 'https://github.com/SravaniPutturu/Color-Picker#readme'
         },
         
     ]
