@@ -3,6 +3,7 @@ import weatherImg from '../asserts/weatherImage.png';
 import todoImg from '../asserts/todoImage.png';
 import MeShop from '../asserts/MeShop.png'
 import ColorPicker from '../asserts/ColorPicker.png'
+import FoodRecipe from '../asserts/FoodRecipe.png'
 
 const Projects = () => {
 
@@ -38,6 +39,14 @@ const Projects = () => {
             link:'https://main--color-picker-03a9ba.netlify.app/',
             languages : "HTML, CSS, JS, React",
             repoLink : 'https://github.com/SravaniPutturu/Color-Picker#readme'
+        },
+        {
+            id:5,
+            project : "Food-Recipe-Finder",
+            src:FoodRecipe,
+            link:'https://food-recipe-finder-by-sravani.netlify.app/',
+            languages : "HTML, CSS, JS, React",
+            repoLink : 'https://github.com/SravaniPutturu/Food-Recipe-Finder'
         },
         
     ]
