@@ -8,13 +8,13 @@ import FoodRecipe from '../asserts/FoodRecipe.png'
 const Projects = () => {
 
     const projects = [
-        {
+       {
             id:1,
             project : "Typing Speed Test Website",
-            src:,
-            link : 'https://main--euphonious-tartufo-089e4c.netlify.app/',
+            src:Typing,
+            link : 'https://sravaniputturu.netlify.app/',
             languages : "HTML, CSS, JS, React",
-            repoLink : 'https://github.com/SravaniPutturu/Weather-app-React'
+            repoLink : 'https://github.com/SravaniPutturu/My-Portfolio'
         },
         {
             id:2,
