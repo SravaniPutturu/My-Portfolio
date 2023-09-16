@@ -10,8 +10,8 @@ const Projects = () => {
     const projects = [
         {
             id:1,
-            project : "Weather App",
-            src:weatherImg,
+            project : "Typing Speed Test Website",
+            src:,
             link : 'https://main--euphonious-tartufo-089e4c.netlify.app/',
             languages : "HTML, CSS, JS, React",
             repoLink : 'https://github.com/SravaniPutturu/Weather-app-React'
@@ -19,21 +19,29 @@ const Projects = () => {
         {
             id:2,
             project : "Weather App",
+            src:weatherImg,
+            link : 'https://main--euphonious-tartufo-089e4c.netlify.app/',
+            languages : "HTML, CSS, JS, React",
+            repoLink : 'https://github.com/SravaniPutturu/Weather-app-React'
+        },
+        {
+            id:3,
+            project : "Weather App",
             src:todoImg,
             link:'https://main--radiant-biscochitos-460c16.netlify.app/',
             languages : "HTML, Bootstrap, JS, React, Redux",
             repoLink : 'https://github.com/SravaniPutturu/Todo-List-React-Redux'
         },
         {
-            id:3,
+            id:4,
             project : "MeShop Shopping Cart",
             src:MeShop,
-            link:'https://sravaniputturu.github.io/MeShop---Shopping-Cart/',
+            link:'https://sravaniputturu.github.io/Ecommerce-Website/',
             languages : "HTML, CSS, JS",
-            repoLink : 'https://github.com/SravaniPutturu/MeShop---Shopping-Cart'
+            repoLink : 'https://github.com/SravaniPutturu/Ecommerce-Website'
         },
         {
-            id:4,
+            id:5,
             project : "Color Picker",
             src:ColorPicker,
             link:'https://main--color-picker-03a9ba.netlify.app/',
@@ -41,13 +49,14 @@ const Projects = () => {
             repoLink : 'https://github.com/SravaniPutturu/Color-Picker#readme'
         },
         {
-            id:5,
+            id:6,
             project : "Food-Recipe-Finder",
             src:FoodRecipe,
             link:'https://food-recipe-finder-by-sravani.netlify.app/',
             languages : "HTML, CSS, JS, React",
             repoLink : 'https://github.com/SravaniPutturu/Food-Recipe-Finder'
         },
+        
         
     ]
 
