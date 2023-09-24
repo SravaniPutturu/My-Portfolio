@@ -5,6 +5,7 @@ import MeShop from '../asserts/MeShop.png'
 import ColorPicker from '../asserts/ColorPicker.png'
 import FoodRecipe from '../asserts/FoodRecipe.png'
 import Typing from '../asserts/Typing.png'
+import Portfolio from '../asserts/portfolio.png'
 
 const Projects = () => {
 
@@ -15,6 +16,22 @@ const Projects = () => {
             src:Typing,
             link : 'https://sravaniputturu.netlify.app/',
             languages : "HTML, CSS, JS, React",
+            repoLink : 'https://github.com/SravaniPutturu/Typing-Speed-Test-Website'
+        },
+        {
+            id:4,
+            project : "MeShop Shopping Cart",
+            src:MeShop,
+            link:'https://sravaniputturu.github.io/Ecommerce-Website/',
+            languages : "HTML, CSS, JS",
+            repoLink : 'https://github.com/SravaniPutturu/Ecommerce-Website'
+        },
+        {
+            id:3,
+            project : "Portfolio",
+            src:Portfolio,
+            link:'https://sravaniputturu.netlify.app/',
+            languages : "HTML, Tailwind CSS, ReactJS",
             repoLink : 'https://github.com/SravaniPutturu/My-Portfolio'
         },
         {
@@ -24,22 +41,6 @@ const Projects = () => {
             link : 'https://main--euphonious-tartufo-089e4c.netlify.app/',
             languages : "HTML, CSS, JS, React",
             repoLink : 'https://github.com/SravaniPutturu/Weather-app-React'
-        },
-        {
-            id:3,
-            project : "Weather App",
-            src:todoImg,
-            link:'https://main--radiant-biscochitos-460c16.netlify.app/',
-            languages : "HTML, Bootstrap, JS, React, Redux",
-            repoLink : 'https://github.com/SravaniPutturu/Todo-List-React-Redux'
-        },
-        {
-            id:4,
-            project : "MeShop Shopping Cart",
-            src:MeShop,
-            link:'https://sravaniputturu.github.io/Ecommerce-Website/',
-            languages : "HTML, CSS, JS",
-            repoLink : 'https://github.com/SravaniPutturu/Ecommerce-Website'
         },
         {
             id:5,
