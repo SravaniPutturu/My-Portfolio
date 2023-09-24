@@ -1,6 +1,5 @@
 import React from 'react'
 import weatherImg from '../asserts/weatherImage.png';
-import todoImg from '../asserts/todoImage.png';
 import MeShop from '../asserts/MeShop.png'
 import ColorPicker from '../asserts/ColorPicker.png'
 import FoodRecipe from '../asserts/FoodRecipe.png'
