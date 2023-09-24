@@ -13,7 +13,7 @@ const Projects = () => {
             id:1,
             project : "Typing Speed Test Website",
             src:Typing,
-            link : 'https://sravaniputturu.netlify.app/',
+            link : 'https://typing-speed-website-by-sravani.netlify.app/',
             languages : "HTML, CSS, JS, React",
             repoLink : 'https://github.com/SravaniPutturu/Typing-Speed-Test-Website'
         },
