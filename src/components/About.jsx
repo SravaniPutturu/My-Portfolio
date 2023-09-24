@@ -8,7 +8,7 @@ const About = () => {
         <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
       </div>
       <p className='text-xl mt-20'>
-      Hello, I'm [Your Name], a frontend developer with a strong passion for creating visually appealing and user-friendly websites. I graduated in 2020 and have since focused on honing my frontend development skills through training and hands-on projects. 
+      Hello, I'm Sravani Putturu, a frontend developer with a strong passion for creating visually appealing and user-friendly websites. I graduated in 2020 and have since focused on honing my frontend development skills through training and hands-on projects. 
       </p>
       <br />
       <p className='text-xl'>
